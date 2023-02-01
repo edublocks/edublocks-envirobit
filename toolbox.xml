@@ -1,4 +1,4 @@
-<category name="envirobit" colour="20">
+<category name="envirobit" colour="20" css-icon="customIcon fad fa-seedling">
     <block type="import_envirobit"></block>
     <block type="temperature"></block>
     <block type="pressure"></block>
